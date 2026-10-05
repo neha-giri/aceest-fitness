@@ -72,3 +72,4 @@ builds the Docker image.
 ## Branching & Commits
 `main` is stable. Work is done on `feature/*`, `bugfix/*` and `infra/*` branches and merged
 through pull requests. Commits use prefixes: `feat`, `test`, `infra`, `ci`, `docs`.
+
